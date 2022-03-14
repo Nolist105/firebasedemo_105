@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "603909160419",
+    "firebase_url": "https://first-demo-ef9b0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "first-demo-ef9b0",
+    "storage_bucket": "first-demo-ef9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603909160419:android:915ead87d8245fd231b4d6",
+        "android_client_info": {
+          "package_name": "io.naphat.dev.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603909160419-923jj9es1too3gmkuvr0u33n3b9j5tia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.naphat.dev.firebasedemo",
+            "certificate_hash": "6f174c7021b0d20f1390f309d286126464ae73cd"
+          }
+        },
+        {
+          "client_id": "603909160419-fgackbor66pbg7cucktb44cetccvo5ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEfuvFxJUzlhqFH4FFc9PZ70C0cE1NQ0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603909160419-fgackbor66pbg7cucktb44cetccvo5ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
